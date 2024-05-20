@@ -5,21 +5,26 @@
 47.76.159.146,80,80,false,HKG,Asia Pacific,Hong Kong,46,19.36
 8.218.126.53,8080,8080,false,HKG,Asia Pacific,Hong Kong,49,18.27
 183.232.159.172,2052,2086,false,HKG,Asia Pacific,Hong Kong,41,17.88
-8.218.85.128,2095,2095,false,HKG,Asia Pacific,Hong Kong,54,16.90
 47.76.204.76,2083,2083,true,HKG,Asia Pacific,Hong Kong,48,13.45
 178.173.237.173,443,443,true,HKG,Asia Pacific,Hong Kong,48,12.06
 47.76.204.76,8880,8880,false,HKG,Asia Pacific,Hong Kong,50,8.77
 47.76.204.76,2082,2082,false,HKG,Asia Pacific,Hong Kong,49,7.71
 47.76.204.76,2095,2095,false,HKG,Asia Pacific,Hong Kong,47,7.26
 47.76.204.76,2096,2096,true,HKG,Asia Pacific,Hong Kong,47,6.27
-47.76.49.246,2053,2053,true,HKG,Asia Pacific,Hong Kong,52,5.43
 103.20.222.23,10189,443,true,HKG,Asia Pacific,Hong Kong,59,4.64
 8.218.3.12,2083,2083,true,HKG,Asia Pacific,Hong Kong,48,2.78
 159.138.131.240,443,443,true,HKG,Asia Pacific,Hong Kong,42,1.87
 47.76.146.1,80,80,false,HKG,Asia Pacific,Hong Kong,55,1.65
 47.76.49.246,8443,8443,true,HKG,Asia Pacific,Hong Kong,53,1.21
-8.218.18.235,2052,0,false,HKG,Asia Pacific,Hong Kong,49,1.09
 47.76.146.1,8443,8443,true,HKG,Asia Pacific,Hong Kong,53,0.98
 47.76.49.246,2096,2096,true,HKG,Asia Pacific,Hong Kong,53,0.97
 47.76.146.1,8080,8080,false,HKG,Asia Pacific,Hong Kong,56,0.79
 154.88.31.91,30000,443,true,HKG,Asia Pacific,Hong Kong,60,0.38
+8.217.250.5	2086	2086	FALSE	HKG	Asia Pacific	Hong Kong	45	22.75
+47.76.159.146	80	80	FALSE	HKG	Asia Pacific	Hong Kong	53	21.42
+47.76.159.146	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	59	20.2
+47.243.42.219	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	54	17.42
+183.232.159.172	2052	2086	FALSE	HKG	Asia Pacific	Hong Kong	44	14.33
+58.153.173.79	8880	8880	FALSE	HKG	Asia Pacific	Hong Kong	61	14.14
+178.173.237.173	443	443	TRUE	HKG	Asia Pacific	Hong Kong	46	13.92
+47.243.128.14	443	443	TRUE	HKG	Asia Pacific	Hong Kong	61	13.62
